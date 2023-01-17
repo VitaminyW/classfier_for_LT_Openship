@@ -1,3 +1,5 @@
+讲解博客：https://blog.csdn.net/YmgmY/article/details/128720977?spm=1001.2014.3001.5502  
+
 ### 一、数据集配置
 #### 配置索引txt文件，分别为train.txt,val.txt,test.txt
 内容为：{IMAGE_PATH} {Class_id}\n
